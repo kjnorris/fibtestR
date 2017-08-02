@@ -1,0 +1,10 @@
+Package: fibtestR
+Type: Package
+Title: Generates Fibonacci NUmbers
+Version: 0.1.0
+Author: Kenneth Norris
+Maintainer: Kenneth Norris <kjnorris@confidenceinterval.info>
+Description: Test project to work with creating packages under Travis CI
+License: GPL 2.0
+Encoding: UTF-8
+LazyData: true
