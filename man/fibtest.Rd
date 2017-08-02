@@ -8,5 +8,5 @@ getFib(n)
 Calculates nth number in the Fibonacci sequence
 }
 \examples{
-getFob(1)
+getFib(1)
 }
