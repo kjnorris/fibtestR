@@ -2,10 +2,13 @@
 \alias{getFib}
 \title{Fibonacci Generator}
 \usage{
-getFib(n)
+getFib(x)
+}
+\arguments{
+\item{x}{generate the xth value in the Fibonacci series}
 }
 \description{
-Calculates nth number in the Fibonacci sequence
+Calculates xth number in the Fibonacci sequence.
 }
 \examples{
 getFib(1)
