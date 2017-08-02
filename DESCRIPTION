@@ -8,3 +8,4 @@ Description: Test project to work with creating packages under Travis CI
 License: GPL 2.0
 Encoding: UTF-8
 LazyData: true
+Suggests: testthat
